@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\MainWindow.g.cs
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2_MarkupCompile.cache
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2_MarkupCompile.lref
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\bin\Debug\FlarumX 2.exe.config
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\bin\Debug\FlarumX 2.exe
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\bin\Debug\FlarumX 2.pdb
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\MainWindow.baml
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2.g.resources
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX_2.Properties.Resources.resources
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2.exe
+C:\Users\hp\source\repos\FlarumX 2\FlarumX 2\obj\Debug\FlarumX 2.pdb
